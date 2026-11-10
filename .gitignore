@@ -1,0 +1,6 @@
+motor-private/config.php
+motor-private/uploads/*
+!motor-private/uploads/.htaccess
+!motor-private/uploads/.gitkeep
+*.zip
+.DS_Store
